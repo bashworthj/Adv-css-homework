@@ -8,7 +8,7 @@
 4. [Resources](#resources)
 
 ## Description 
-- In this assignment I created a portfolio from scratch. First building out the content of my html, and then adding styling and formating with css.
+- In this assignment I created a portfolio from scratch. First building out the content of my html, and then adding styling and formating with css. I honestly didnt have a picture of myself; once I chose batman the styling kind of unraveled from there.
 
 ## Visuals
 ![Screen Shot]
