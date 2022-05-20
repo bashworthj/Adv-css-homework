@@ -17,7 +17,7 @@
 - Ben Ashworth
 
 ## Resources
-[Repo Link] 
+[Repo Link](https://github.com/bashworthj/Adv-css-homework)
 
-[Live Site]
+[Live Site](https://bashworthj.github.io/Adv-css-homework/)
  
